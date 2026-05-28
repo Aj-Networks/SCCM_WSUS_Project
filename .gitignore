@@ -1,0 +1,40 @@
+# Local-only working files (never committed). See local_ONLY/README.md
+local_ONLY/*
+!local_ONLY/README.md
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# PowerShell
+*.ps1xml.bak
+*.psd1.bak
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local artifacts that should never be committed
+secrets/
+creds/
+*.kdbx
+*.pfx
+*.cer
+*.key
+*.pem
+*.env
+
+# Captured screenshots that are still drafts (rename and move to /screenshots when ready)
+screenshots/_drafts/
+
+# Hyper-V / VM exports (large, not for repo)
+*.vhd
+*.vhdx
+*.avhd
+*.avhdx
+*.iso
