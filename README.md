@@ -74,6 +74,28 @@
 
 ---
 
+## 💻 Hardware requirements
+
+This lab runs on a single Hyper-V host. Pick the tier that matches how much of the lab you plan to run at once.
+
+| Tier | CPU | RAM | Storage | What it runs |
+|------|-----|-----|---------|--------------|
+| ⚠️ **Minimum** | 4 cores / 8 threads (VT-x or AMD-V) | 32 GB | 500 GB SSD | All 5 servers + 1 to 2 clients at a time |
+| ✅ **Recommended** | 8 cores / 16 threads | 64 GB | 1 TB NVMe SSD | All 5 servers + 4 to 6 clients concurrently |
+| 🚀 **Comfortable** | 12+ cores / 24+ threads | 128 GB | 2 TB NVMe SSD | Full lab (servers + all 10 clients) with snapshot headroom |
+
+**Host requirements**
+
+- 🪟 Windows 11 Pro / Enterprise OR Windows Server 2022 with the Hyper-V role
+- ⚡ Hardware virtualization enabled in firmware (Intel VT-x / VT-d or AMD-V / AMD-Vi)
+- 🌐 One physical NIC for internet and management; virtual switches handle the lab networking
+- ❄️ Adequate cooling and stable power for sustained virtualization workloads
+
+> [!TIP]
+> **Don't have 64 GB of RAM?** You can still complete every phase. Power off clients you are not actively testing, and lean on Hyper-V checkpoints so you can roll back without rebuilding. Dynamic Memory is enabled on client VMs by design for exactly this reason.
+
+---
+
 ## 📋 What the lab covers
 
 <details open>
