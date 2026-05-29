@@ -1,0 +1,37 @@
+SCCM Lab: Meridian Freight Co.
+Copyright 2026 Aj-Networks (https://github.com/Aj-Networks)
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+================================================================================
+                          ATTRIBUTION IS REQUIRED
+================================================================================
+
+This NOTICE file is part of the Work. Under Apache 2.0 Section 4(d), any
+distribution of this Work or a Derivative Work MUST include the contents
+of this NOTICE file.
+
+If you use this repository (in whole or in substantial part) you MUST:
+
+  1. Credit the original author: @Aj-Networks
+     (https://github.com/Aj-Networks)
+  2. Link to the original repository:
+     https://github.com/Aj-Networks/SCCM_WSUS_Project
+  3. Preserve this NOTICE file with your distribution.
+  4. State any changes you made to the original files.
+
+You CAN:
+  - Use, copy, modify, fork, and distribute (including commercially).
+  - Adapt for learning, teaching, your own homelab, or commercial work.
+  - Build derivative works.
+
+You CANNOT:
+  - Strip attribution and republish this Work as your own original creation.
+  - Use the original author's trademarks (none claimed here).
+  - Hold the author liable for any damages.
+
+Example credit line:
+
+    "Based on 'SCCM Lab: Meridian Freight Co.' by @Aj-Networks.
+     Source: https://github.com/Aj-Networks/SCCM_WSUS_Project"

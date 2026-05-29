@@ -5,7 +5,7 @@
 **A home lab that simulates a real SMB rollout of Microsoft Configuration Manager (SCCM / MECM) and WSUS for a fictional 120-user freight company across two sites.**
 
 [![Status](https://img.shields.io/badge/status-Work%20in%20Progress-yellow?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](LICENSE)
 [![Type](https://img.shields.io/badge/Type-Home%20Lab-success?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/Platform-Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![PowerShell](https://img.shields.io/badge/PowerShell-7-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
@@ -156,14 +156,14 @@ Find more work from [@Aj-Networks](https://github.com/Aj-Networks) on GitHub.
 
 ## 📄 License and Attribution
 
-**MIT License.** See [LICENSE](LICENSE) for the full text.
+**Apache License 2.0.** See [LICENSE](LICENSE) for the full text and [NOTICE](NOTICE) for the attribution terms.
 
 > [!CAUTION]
-> ✅ **You CAN:** use, fork, study, adapt, and build on this lab for learning, teaching, or your own homelab.
+> ✅ **You CAN:** use, fork, study, adapt, and build on this lab for learning, teaching, your own homelab, or commercial work.
 >
-> ❌ **You CANNOT:** strip attribution and republish this repo (or substantial parts of it) as your own original work.
+> ❌ **You CANNOT:** strip attribution and republish this repo (or substantial parts of it) as your own original creation.
 >
-> 📌 **If you reference or reuse content from this repo, you MUST credit the original.** Link back to [github.com/Aj-Networks/SCCM_WSUS_Project](https://github.com/Aj-Networks/SCCM_WSUS_Project). This is required by the MIT license.
+> 📌 **If you reference or reuse content from this repo, you MUST credit the original** and preserve the [NOTICE](NOTICE) file. Link back to [github.com/Aj-Networks/SCCM_WSUS_Project](https://github.com/Aj-Networks/SCCM_WSUS_Project). This is legally required by Apache License 2.0 Section 4(d).
 
 <div align="center">
 
