@@ -118,11 +118,14 @@
 
 ---
 
-## 👤 Author
+## 🤝 Contributors
 
-**Ajay Angdembe.** Built as a portfolio piece and a teaching resource.
+|     | Contributor | Role |
+|-----|-------------|------|
+| 👤  | [**Ajay Angdembe**](https://github.com/Aj-Networks) | Author, architect, and lab operator. Built and maintains the scenario, infrastructure, runbook, and PowerShell. |
+| 🤖  | **Claude (Anthropic)** | Documentation assistant. Helped scaffold the docs, README structure, and repo layout during the initial build. |
 
-Find more of my work on [GitHub](https://github.com/Aj-Networks).
+Find more of Ajay's work on [GitHub](https://github.com/Aj-Networks).
 
 ---
 
