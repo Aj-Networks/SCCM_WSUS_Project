@@ -4,7 +4,7 @@
 
 If you use this repository (in whole or in substantial part) you MUST:
 
-  1. Credit the original author (Ajay Angdembe).
+  1. Credit the original author: @Aj-Networks (https://github.com/Aj-Networks)
   2. Include a link back to the original repository:
      https://github.com/Aj-Networks/SCCM_WSUS_Project
   3. Include this license notice with your distribution.
@@ -16,7 +16,7 @@ You cannot: strip attribution and republish this work (or substantial
             parts of it) as your own original creation.
 
 Example credit line:
-    "Based on 'SCCM Lab: Meridian Freight Co.' by Ajay Angdembe.
+    "Based on 'SCCM Lab: Meridian Freight Co.' by @Aj-Networks.
      Source: https://github.com/Aj-Networks/SCCM_WSUS_Project"
 
 The plain-English notice above is a summary. The legally binding terms
@@ -26,7 +26,7 @@ are the MIT License text below.
 
 MIT License
 
-Copyright (c) 2026 Ajay Angdembe
+Copyright (c) 2026 Aj-Networks (https://github.com/Aj-Networks)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

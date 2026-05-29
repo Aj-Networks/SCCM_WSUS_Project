@@ -147,10 +147,10 @@ This lab runs on a single Hyper-V host. Pick the tier that matches how much of t
 
 |     | Contributor | Role |
 |-----|-------------|------|
-| 👤  | [**Ajay Angdembe**](https://github.com/Aj-Networks) | Author, architect, and lab operator. Built and maintains the scenario, infrastructure, runbook, and PowerShell. |
+| 👤  | [**@Aj-Networks**](https://github.com/Aj-Networks) | Author, architect, and lab operator. Built and maintains the scenario, infrastructure, runbook, and PowerShell. |
 | 🤖  | **Claude (Anthropic)** | Documentation assistant. Helped scaffold the docs, README structure, and repo layout during the initial build. |
 
-Find more of Ajay's work on [GitHub](https://github.com/Aj-Networks).
+Find more work from [@Aj-Networks](https://github.com/Aj-Networks) on GitHub.
 
 ---
 
