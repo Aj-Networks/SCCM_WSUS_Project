@@ -57,4 +57,4 @@ The first line ignores everything in the folder. The second line whitelists this
 
 ## Sanity check before you commit
 
-If `git status` ever shows a file from `local_ONLY/` as staged or modified, stop and verify the .gitignore is still in place. The folder name is `local_ONLY` (capital ONLY) — case matters on case-sensitive file systems.
+If `git status` ever shows a file from `local_ONLY/` as staged or modified, stop and verify the .gitignore is still in place. The folder name is `local_ONLY` (capital ONLY). Case matters on case-sensitive file systems.
