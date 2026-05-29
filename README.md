@@ -18,6 +18,9 @@
 > [!NOTE]
 > **This repo is a work in progress.** Scenario, architecture, and build runbook docs are in place. PowerShell scripts, diagrams, and screenshots land phase by phase as the lab is rebuilt for evidence capture.
 
+> [!IMPORTANT]
+> 📜 **Free to use, fork, and learn from.** If this repo helps you and you build on it or share it, a credit back is appreciated. Full terms in the [LICENSE](LICENSE).
+
 ---
 
 ## 🎯 Goals
@@ -129,9 +132,16 @@ Find more of Ajay's work on [GitHub](https://github.com/Aj-Networks).
 
 ---
 
-## 📄 License
+## 📄 License and Attribution
 
-MIT. See [LICENSE](LICENSE). Use this freely for learning, teaching, or building your own lab.
+**MIT License.** See [LICENSE](LICENSE) for the full text.
+
+> [!CAUTION]
+> ✅ **You CAN:** use, fork, study, adapt, and build on this lab for learning, teaching, or your own homelab.
+>
+> ❌ **You CANNOT:** strip attribution and republish this repo (or substantial parts of it) as your own original work.
+>
+> 📌 **If you reference or reuse content from this repo, you MUST credit the original.** Link back to [github.com/Aj-Networks/SCCM_WSUS_Project](https://github.com/Aj-Networks/SCCM_WSUS_Project). This is required by the MIT license.
 
 <div align="center">
 

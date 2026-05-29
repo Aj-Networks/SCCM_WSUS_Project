@@ -1,3 +1,29 @@
+================================================================================
+                          ATTRIBUTION IS REQUIRED
+================================================================================
+
+If you use this repository (in whole or in substantial part) you MUST:
+
+  1. Credit the original author (Ajay Angdembe).
+  2. Include a link back to the original repository:
+     https://github.com/Aj-Networks/SCCM_WSUS_Project
+  3. Include this license notice with your distribution.
+
+You can:  use, copy, modify, fork, adapt, and build on this work for
+          learning, teaching, your own homelab, or commercial work.
+
+You cannot: strip attribution and republish this work (or substantial
+            parts of it) as your own original creation.
+
+Example credit line:
+    "Based on 'SCCM Lab: Meridian Freight Co.' by Ajay Angdembe.
+     Source: https://github.com/Aj-Networks/SCCM_WSUS_Project"
+
+The plain-English notice above is a summary. The legally binding terms
+are the MIT License text below.
+
+================================================================================
+
 MIT License
 
 Copyright (c) 2026 Ajay Angdembe
